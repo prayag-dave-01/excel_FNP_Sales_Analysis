@@ -41,14 +41,14 @@ The objective is to transform raw sales data into meaningful business insights a
 - **Total orders:** 1,000
 
 The business generated approximately ₹35.21 lakh across 1,000 orders in the analyzed dataset.
----
+
 ### 2. What are the average order and delivery times?
 
 - **Average delivery time:** 6 days
 - **Average spending per order:** ₹3,520.98
 
 The average spending figure is total revenue divided by total orders. It is therefore best interpreted as average order value, rather than average spend per unique customer.
----
+
 ### 3. How does sales performance vary by month?
 
 The monthly revenue chart shows noticeable fluctuations during the year. February and August are the strongest months in the dashboard, with August appearing to be the peak. March and November also show relatively strong revenue.
