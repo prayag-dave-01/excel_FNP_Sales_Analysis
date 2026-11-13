@@ -1,5 +1,7 @@
 # FNP Sales Analysis Using Microsoft Excel
 
+![FNP Logo](Images/FNP_Logo.png)
+
 ## Project Overview
 
 This project analyzes sales data from **Ferns N Petals (FNP)**, a gifting business offering products for occasions such as Anniversaries, Birthdays, Diwali, Holi, Raksha Bandhan, and Valentine's Day.
