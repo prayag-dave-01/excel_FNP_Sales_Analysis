@@ -41,7 +41,7 @@ The objective is to transform raw sales data into meaningful business insights a
 - **Total orders:** 1,000
 
 The business generated approximately ₹35.21 lakh across 1,000 orders in the analyzed dataset.
-
+---
 ### 2. What are the average order and delivery times?
 
 - **Average delivery time:** 6 days
