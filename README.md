@@ -133,9 +133,9 @@ The leading product differs by occasion, indicating that product preferences var
 ---
 ## Occasion-Based Dashboard View
 
-The dashboard's Occasion slicer filters the revenue and product analysis for the selected occasion. A combined image of the filtered views can be placed here to demonstrate this interactive analysis.
+The dashboard's Occasion slicer filters the revenue and product analysis for the selected occasion. Dashboard for filtered views against each occasion can be seen into below document.
 
-![FNP Occasion Analysis](screenshots/fnp-occasion-analysis.png)
+![FNP Occasion Analysis](Occasion_wise_dashboard.docx)
 
 ## Skills Demonstrated
 
