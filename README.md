@@ -151,3 +151,17 @@ The dashboard's Occasion slicer filters the revenue and product analysis for the
 ## Conclusion
 
 This project demonstrates an end-to-end Excel-based sales analysis workflow, from extracting and preparing source data to building a relational Data Model and an interactive dashboard. The analysis highlights overall revenue performance, monthly trends, leading products and cities, occasion-based purchasing patterns, and the relationship between order quantity and delivery time.
+
+---
+
+# 👤 Author
+
+**Prayag Dave**
+
+GitHub: [@prayag-dave-01](https://github.com/prayag-dave-01)
+
+---
+
+## ⭐ Portfolio
+
+This repository is part of a portfolio focused on building practical projects using data cleaning, analysis, visualization and business storytelling.
