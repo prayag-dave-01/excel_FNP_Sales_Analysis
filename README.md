@@ -8,7 +8,7 @@ The objective is to transform raw sales data into meaningful business insights a
 
 ## Dashboard Preview
 
-![FNP Sales Analysis Dashboard](screenshots/fnp-main-dashboard.png)
+![FNP Sales Analysis Dashboard](Images/fnp-main-dashboard.png)
 
 *Save the main, unfiltered dashboard screenshot as `screenshots/fnp-main-dashboard.png`.*
 
