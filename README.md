@@ -1,6 +1,6 @@
 # FNP Sales Analysis Using Microsoft Excel
 
-![FNP Logo](Images/FNP_Logo.png)
+![FNP Logo](Images/FNP_Logo.jpg)
 
 ## Project Overview
 
