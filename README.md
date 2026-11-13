@@ -12,8 +12,6 @@ The objective is to transform raw sales data into meaningful business insights a
 
 ![FNP Sales Analysis Dashboard](Images/fnp-main_dashboard.png)
 
-*Save the main, unfiltered dashboard screenshot as `screenshots/fnp-main-dashboard.png`.*
-
 ## Tools and Features
 
 - Microsoft Excel
@@ -128,8 +126,6 @@ The leading product differs by occasion, indicating that product preferences var
 The dashboard's Occasion slicer filters the revenue and product analysis for the selected occasion. A combined image of the filtered views can be placed here to demonstrate this interactive analysis.
 
 ![FNP Occasion Analysis](screenshots/fnp-occasion-analysis.png)
-
-*Save a collage of the six occasion-filtered dashboard views as `screenshots/fnp-occasion-analysis.png`. Individual screenshots can also be retained in this folder for more detail.*
 
 ## Skills Demonstrated
 
