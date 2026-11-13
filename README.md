@@ -89,8 +89,6 @@ The calculated correlation coefficient between order quantity and delivery time 
 
 This value is extremely close to zero and indicates a negligible linear relationship in the analyzed data. The result suggests that higher order quantities do not show a meaningful linear association with longer delivery times in this dataset. Correlation does not establish causation or rule out non-linear relationships.
 
-A scatter plot with Order Quantity on the X-axis, Delivery Time (Days) on the Y-axis, and a linear trendline can be added to the workbook to make this analysis visible in the dashboard.
-
 ### 9. How does revenue compare across occasions?
 
 The occasion slicer was used to examine each occasion separately. The revenue values displayed in the filtered dashboard views are:
@@ -130,14 +128,6 @@ The dashboard's Occasion slicer filters the revenue and product analysis for the
 ![FNP Occasion Analysis](screenshots/fnp-occasion-analysis.png)
 
 *Save a collage of the six occasion-filtered dashboard views as `screenshots/fnp-occasion-analysis.png`. Individual screenshots can also be retained in this folder for more detail.*
-
-## Correlation Analysis
-
-A scatter plot can be included to show the relationship between order quantity and delivery time.
-
-![Order Quantity vs Delivery Time Correlation](screenshots/fnp-correlation.png)
-
-*Add this image after creating the scatter plot in Excel. Use Order Quantity on the X-axis and Delivery Time (Days) on the Y-axis, and display a linear trendline. The calculated correlation coefficient is 0.003.*
 
 ## Skills Demonstrated
 
